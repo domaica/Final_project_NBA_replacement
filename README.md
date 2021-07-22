@@ -35,4 +35,3 @@ For further explanation see powerpoint presentation named 'Final Project Group 1
 
 https://github.com/domaica/Final_project_NBA_replacement/tree/main/ppt
 
-https://github.com/domaica/Final_project_NBA_replacement/blob/main/ppt/~%24Final%20Project%20Group%201%20v6.pptx
